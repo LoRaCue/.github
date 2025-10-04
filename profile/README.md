@@ -1,7 +1,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Made with ❤️ in Hannover](https://img.shields.io/badge/Made%20with%20❤️%20in-Hannover-green.svg)](https://hannover.de)
 
-![LoRaCue Social Media Banner](assets/socialmedia.webp)
+![LoRaCue Social Media Banner](https://github.com/LoRaCue/.github/blob/main/assets/socialmedia.webp?raw=true)
 
 ## 🎯 Vision
 
