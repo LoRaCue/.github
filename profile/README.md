@@ -3,7 +3,6 @@
 > **Enterprise-grade wireless presentation control with long-range LoRa technology**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![ESP-IDF](https://img.shields.io/badge/ESP--IDF-v5.5-red.svg)](https://github.com/espressif/esp-idf)
 [![Made with ❤️ in Hannover](https://img.shields.io/badge/Made%20with%20❤️%20in-Hannover-green.svg)](https://hannover.de)
 
 ## 🎯 Vision
@@ -28,7 +27,6 @@ The core ESP32-S3 firmware powering LoRaCue devices. Built on ESP-IDF v5.5 with 
 **Key Technologies:**
 - ESP32-S3 (Dual-core Xtensa LX7, 240MHz)
 - LoRa SX1262 transceiver (868/915MHz)
-- SH1106 OLED display (128x64)
 - USB-C with HID keyboard emulation
 - Bluetooth LE for mobile configuration
 
@@ -71,6 +69,7 @@ graph TB
 - **Connectivity**: LoRa, Bluetooth LE, USB-C, WiFi
 - **Development**: Wokwi simulation, GitHub Actions CI/CD
 - **Management**: Web-based UI, REST API, OTA updates
+- **Manager App**: Tauri v2.8, Rust, TypeScript
 
 ## 🎓 Use Cases
 
@@ -113,7 +112,7 @@ LoRaCue is open-source software licensed under the **GNU General Public License 
 
 ## 🏙️ Made with ❤️ in Hannover
 
-LoRaCue is proudly developed in Hannover, Germany, combining German engineering precision with open-source innovation.
+LoRaCue is proudly developed in Hannover, Germany.
 
 ---
 
