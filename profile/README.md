@@ -1,6 +1,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Made with ❤️ in Hannover](https://img.shields.io/badge/Made%20with%20❤️%20in-Hannover-green.svg)](https://hannover.de)
 
+![LoRaCue Social Media Banner](assets/socialmedia.webp)
+
 ## 🎯 Vision
 
 LoRaCue revolutionizes presentation control by combining **long-range LoRa wireless technology** with **professional-grade reliability**. Designed for conference halls, auditoriums, and large venues where traditional RF remotes fail, LoRaCue delivers **sub-50ms latency** over distances exceeding **100 meters indoors** and **1 kilometer line-of-sight**.
